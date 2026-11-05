@@ -69,9 +69,9 @@ const SUBJECTS = [
   ]},
   { name: "Information Technology", code: "9626", category: "Technology", components: [
     { code: "12", name: "Theory", level: "AS", date: "2027-05-10", session: "AM", duration: "1h 45m", type: "written" },
-    { code: "22", name: "Practical", level: "AS", date: "2027-04-22", session: "null", duration: "2h 30m", type: "practical" },
+    { code: "22", name: "Practical", level: "AS", date: "2027-04-22", session: "AM", duration: "2h 30m", type: "practical" },
     { code: "32", name: "Advanced Theory", level: "A2", date: "2027-05-21", session: "AM", duration: "1h 45m", type: "written" },
-    { code: "42", name: "Advanced Practical", level: "A2", date: "2027-04-20", session: "null", duration: "2h 30m", type: "practical" }
+    { code: "42", name: "Advanced Practical", level: "A2", date: "2027-04-20", session: "AM", duration: "2h 30m", type: "practical" }
   ]}
 ];
 
